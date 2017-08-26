@@ -2,7 +2,7 @@ package com.tmz.hextest;
 
 public class IntTest {
 
-	
+	//hahahaha
 	public static void main(String[] args) {
 		
 		System.err.println(2 << 3);//求2的4次方的最简单的表示方法
